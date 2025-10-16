@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # IMPORTANT Notice!!
 SENTINEL DEVELOPEMENT- We've only updated/modified parts of this code and added few commands, this bot is originally made by [Tomato6966](https://github.com/Tomato6966/Multipurpose-discord-bot). So Credits go to him.
 =======
@@ -12,7 +12,6 @@ SENTINEL DEVELOPEMENT- We've only updated/modified parts of this code and added 
 Having Bugs & Errors? Join our support server [Click Me](https://discord.gg/a7r25Cz2UD).
 
 # Public Bot 
-<<<<<<< HEAD
 
 =======
  
@@ -25,7 +24,6 @@ Having Bugs & Errors? Join our support server [Click Me](https://discord.gg/a7r2
 
 =======
  
->>>>>>> 9f834d95588e447645be2173a76e91db0ed548a3
 
 # Installation Guide 🔥
 
@@ -69,11 +67,10 @@ Having Bugs & Errors? Join our support server [Click Me](https://discord.gg/a7r2
    4. You can adjust some settings in the other `./botconfig/*.json` Files, **BUT PLEASE __KEEP__ MY CREDITS & ADS!** This is the only way on how my hard work is "revenued".
    5. Now start the bot by opening a cmd line in that folder and typing: `node index.js` or `npm start`
      * If you don't want to keep the terminal open or if you're on linux, check out [pm2 (and my tutorial)](https://github.com/Tomato6966/Debian-Cheat-Sheet-Setup/wiki/4-pm2-tutorial) and type: `pm2 start --name Bot_Name index.js`
-<<<<<<< HEAD
+
 
 =======
-  
->>>>>>> 9f834d95588e447645be2173a76e91db0ed548a3
+
 </details>
 
 ## ❓ Where to get which Api-Key(s)
@@ -103,7 +100,7 @@ Having Bugs & Errors? Join our support server [Click Me](https://discord.gg/a7r2
      * `consumer_secret` you can get from: [twitter Developers](https://developer.twitter.com)
      * `access_token` you can get from: [twitter Developers](https://developer.twitter.com)
      * `access_token_secret` you can get from: [twitter Developers](https://developer.twitter.com)
-<<<<<<< HEAD
+
 
 </details>
 
@@ -112,5 +109,3 @@ Having Bugs & Errors? Join our support server [Click Me](https://discord.gg/a7r2
 </details>
 
 
-## SUPPORT ME AND MILRATO DEVELOPMENT
->>>>>>> 9f834d95588e447645be2173a76e91db0ed548a3

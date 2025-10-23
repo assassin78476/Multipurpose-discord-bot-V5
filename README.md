@@ -47,7 +47,6 @@ Having Bugs & Errors? Join our support server [Click Me](https://discord.gg/a7r2
 
 =======
  
->>>>>>> 9f834d95588e447645be2173a76e91db0ed548a3
 </details>
 
 ## 🤖 Configuration and Starting
@@ -60,7 +59,7 @@ Having Bugs & Errors? Join our support server [Click Me](https://discord.gg/a7r2
 
 =======
  
->>>>>>> 9f834d95588e447645be2173a76e91db0ed548a3
+
    1. Check `🎶 Music Requirements` that you started lavalink / use a valid public lavalink station.
    2. Fill in all required data in `./botconfig/config.json` **NOTE:** *If you're on replit.com, it is exposed to everyone!(use .env instead)*
    3. Fill in all required data in the `.json` files in `./social_log/` (`./social_log/streamconfig.json` & `./social_log/twitter.json`), if you want the SOCIAL LOGS to work! (the key `authToken` in streamconfig does not need to be filled in!)
@@ -83,7 +82,7 @@ Having Bugs & Errors? Join our support server [Click Me](https://discord.gg/a7r2
 
 =======
  
->>>>>>> 9f834d95588e447645be2173a76e91db0ed548a3
+
   1. `./botconfig/config.json`
      * `token` you can get from: [discord-Developers](https://discord.com/developers/applications)
      * `memer_api` you can get from: [Meme-Development DC](https://discord.gg/Mc2FudJkgP)

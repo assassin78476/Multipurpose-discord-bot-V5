@@ -261,20 +261,20 @@ module.exports = {
         .setColor(es.color).setThumbnail(es.thumb ? es.footericon && (es.footericon.includes("http://") || es.footericon.includes("https://")) ? es.footericon : client.user.displayAvatarURL() : null)
         .setFooter("Page Overview\n"+ client.user.username, client.user.displayAvatarURL())
                 .setTitle(`Information about __${client.user.username}__`)
-        .addField("<a:Features:1416090481401528390> **__My Features__**",
+        .addField("<a:Features:1430843377439740014> **__My Features__**",
         `>>> **58+ Systems**, including:
-        <:Twitter:1416091768197353512> **Twitter Auto-Poster**
-        <:Youtube:1416092086872182934> **YouTube Auto-Poster**
-        <:Ticket:1416092557741391892> **Ticket System**
-        <:welcome:1416092781717491744> **Welcome Images**
-        <:Reaction_role:1416093009686302740> **Reaction Role System**
-        <:System:1416093303254028308> **Systems Like**
-        <:Music:1416093815084683365> Advanced <:Spotify:1416093862707068928> **Music System** with **Audio Filtering**
-        <a:Games:1416093303254028308> **150+ Mini-games** and **Fun Commands**
-        <a:Admin:1416093303254028308> **Administration** and **Auto-Moderation** features
+        <:Twitter:1430843357885628516> **Twitter Auto-Poster**
+        <:YouTube:1430843360998064259> **YouTube Auto-Poster**
+        <:Ticket:1430843371156672593> **Ticket System**
+       <:joined:1430843383663951892>**Welcome Images**
+        <:Reaction_role:1430843374386020414> **Reaction Role System**
+        <:system:1430843380874743819> **Systems Like**
+      <a:Music:1430843386713210911> Advanced <a:spotify:1430843363707326504> **Music System** with **Audio Filtering**
+        <a:Games:1430843402064232448> **150+ Mini-games** and **Fun Commands**
+        <a:Admin:1430843397412880455> **Administration** and **Auto-Moderation** features
         ...and much more!`)
 
-        .addField("<:System:1416093303254028308> **__How do you use me?__**",
+        .addField("<:system:1430843380874743819> **__How do you use me?__**",
         `>>> Use \`${prefix}setup\` and select what you want for your server in the given modules.
         You can also use \`${prefix}setup-music\` and \`${prefix}setup-welcome\``)
 

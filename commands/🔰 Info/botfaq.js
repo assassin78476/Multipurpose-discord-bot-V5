@@ -15,7 +15,7 @@ module.exports = {
     let es = client.settings.get(message.guild.id, "embed");let ls = client.settings.get(message.guild.id, "language")
     
 		try{
-                        return message.reply("<a:loading:937126702000275477> Connecting...")
+                        return message.reply("<:autoplay:1430843436449271950> Connecting...")
       let Truchorkodc = client.guilds.cache.get("1156124652272357450")
       let Truchorkomembers = await Truchorkodc.members.fetch().catch(() => {});
       let partnercount = Truchorkomembers.filter(m => m.roles.cache.has("823150244509515807"))
